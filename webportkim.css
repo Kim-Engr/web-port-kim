@@ -1,4 +1,4 @@
-/* UNIVERSAL */
+    /* UNIVERSAL */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 *{
@@ -122,7 +122,7 @@ li{
     margin-left: auto;
     text-align: center;
     text-decoration: none;
-    color: #ffc107;
+    color: #b907ff;
 }
 
 .typewriter{
@@ -133,7 +133,7 @@ li{
     content: '|';
     position: absolute;
     right: 0;
-    color:#ffc107;
+    color:#ff07d6;
     width: 100%;
     background-color: #f9f6ef;
     animation: typing 2.5s steps(30) alternate infinite;
@@ -167,13 +167,13 @@ li{
 .about-statement p{
     margin-left: 100px;
     font-size: 45px;
-    color: #ffc107;
+    color: #ff07ff;
     font-style: italic;
 }
 
 .vision-statement h3{
     margin: 15px;
-    color: #ffc107;
+    color: #ff07ff;
 }
 
 .vision-statement p{
@@ -182,7 +182,7 @@ li{
 
 .mission-statement h3{
     margin: 15px;
-    color: #ffc107;
+    color: #ff07ff;
 }
 
 .mission-statement p{
@@ -191,78 +191,11 @@ li{
 
 .values-statement h3{
     margin: 15px;
-    color: #ffc107;
+    color: #ff07ff;
 }
 
 .values-statement p{
     margin: 15px;
-}
-
-/* SECTION 2 (SKILL) */
-#section-skill{
-    height: 100vh;
-    padding-top: 70px;
-}
-
-.skill h2{
-    text-align: center;
-}
-
-.skill-container{
-    display: flex;
-    justify-content: center;
-    margin: auto;
-    padding: 20px;
-}
-
-.skill-set img{
-    width: 150px;
-    height: 150px;
-    border-radius: 10px;
-}
-
-.skill-quote1 q{
-    color: #ffc107;
-    font-size: 40px;
-    display: flex;
-    justify-content: flex-end;
-    padding: 10px;
-}
-.skill-quote1 p{
-    display: flex;
-    justify-content: end;
-    margin-right: 15px;
-}
-
-.skill-quote2 q{
-    color: #ffc107;
-    font-size: 40px;
-    display: flex;
-    justify-content: flex-start;
-    padding: 10px;
-}
-
-.skill-quote2 p{
-    display: flex;
-    justify-content: flex-start;
-    margin-left: 50px;
-}
-
-/* SECTION 3 (GALLERY) */
-#section-gallery{
-    height: 100vh;
-    padding: 70px;
-}
-
-.gallery h2{
-    text-align: center;
-}
-
-.gallery img{
-    margin: auto;
-    display: flex;
-    align-items: center;
-    width: 825px;
 }
 
 /* SECTION 4 (CONTACT)*/
@@ -278,21 +211,21 @@ li{
 fieldset{
     text-align: center;
     margin: auto;
-    border-color: #ffc107;
+    border-color: #07b0ff;
     width: 1050px;
     border-style: double;
     border-width: 5px;
 }
 
 legend{
-    color: #ffc107;
+    color: #ff07ff;
     font-size: 30px;
     text-align: left;
 }
 
 /* FOOTER */
 .main-footer{
-    background-color: #ffc107;
+    background-color: #3d07ff;
     height: 60px;
     padding: 0px;
     margin: 0;
